@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Bank Account Methods", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Test Client", "03. Test Client\03. Test Client.csproj", "{FC43E391-19BD-4B76-BE82-BD707BD193E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Person Class", "04. Person Class\04. Person Class.csproj", "{9034BC95-F93F-4EF1-B6C2-17799FBB786D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FC43E391-19BD-4B76-BE82-BD707BD193E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC43E391-19BD-4B76-BE82-BD707BD193E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC43E391-19BD-4B76-BE82-BD707BD193E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9034BC95-F93F-4EF1-B6C2-17799FBB786D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9034BC95-F93F-4EF1-B6C2-17799FBB786D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9034BC95-F93F-4EF1-B6C2-17799FBB786D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9034BC95-F93F-4EF1-B6C2-17799FBB786D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
