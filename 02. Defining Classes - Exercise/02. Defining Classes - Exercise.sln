@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Google", "12. Google\12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Family Tree", "13. Family Tree\13. Family Tree.csproj", "{6797857C-12C9-42FD-82D7-A9EF79DCA214}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Cat Lady", "14. Cat Lady\14. Cat Lady.csproj", "{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{6797857C-12C9-42FD-82D7-A9EF79DCA214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6797857C-12C9-42FD-82D7-A9EF79DCA214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6797857C-12C9-42FD-82D7-A9EF79DCA214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
