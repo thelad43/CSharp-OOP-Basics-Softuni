@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Speed Racing", "07. Spe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Raw Data", "08. Raw Data\08. Raw Data.csproj", "{C4329C8E-02A9-4486-AF69-C2BD818C9AC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Rectangle Intersection", "09. Rectangle Intersection\09. Rectangle Intersection.csproj", "{3E4CB135-563B-4984-9C18-F2EC20233972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C4329C8E-02A9-4486-AF69-C2BD818C9AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4329C8E-02A9-4486-AF69-C2BD818C9AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4329C8E-02A9-4486-AF69-C2BD818C9AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4CB135-563B-4984-9C18-F2EC20233972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4CB135-563B-4984-9C18-F2EC20233972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4CB135-563B-4984-9C18-F2EC20233972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4CB135-563B-4984-9C18-F2EC20233972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
