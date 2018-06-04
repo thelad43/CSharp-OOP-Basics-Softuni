@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Family Tree", "13. Fami
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Cat Lady", "14. Cat Lady\14. Cat Lady.csproj", "{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Drawing Tool", "15. Drawing Tool\15. Drawing Tool.csproj", "{77F807D9-7F28-4007-B7F8-3523A31751FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF1478A-4568-46AC-8A3C-5DB9B85A10C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F807D9-7F28-4007-B7F8-3523A31751FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F807D9-7F28-4007-B7F8-3523A31751FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F807D9-7F28-4007-B7F8-3523A31751FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F807D9-7F28-4007-B7F8-3523A31751FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
