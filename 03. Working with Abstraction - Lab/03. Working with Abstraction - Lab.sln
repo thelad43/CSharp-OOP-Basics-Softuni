@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rhombus of Stars", "01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Point in Rectangle", "02. Point in Rectangle\02. Point in Rectangle.csproj", "{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Student System", "03. Student System\03. Student System.csproj", "{BCB18793-3130-4924-B84E-FC231023ECAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB18793-3130-4924-B84E-FC231023ECAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB18793-3130-4924-B84E-FC231023ECAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB18793-3130-4924-B84E-FC231023ECAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB18793-3130-4924-B84E-FC231023ECAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
