@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Rhombus of Stars", "01. Rhombus of Stars\01. Rhombus of Stars.csproj", "{D26AFD46-AB70-41CC-9F43-135DA8A7FCFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Point in Rectangle", "02. Point in Rectangle\02. Point in Rectangle.csproj", "{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D26AFD46-AB70-41CC-9F43-135DA8A7FCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26AFD46-AB70-41CC-9F43-135DA8A7FCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26AFD46-AB70-41CC-9F43-135DA8A7FCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBAD1BF-2D8E-4181-ADF3-A0EC24AD4772}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
