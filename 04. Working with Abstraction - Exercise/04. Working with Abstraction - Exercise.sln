@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Hospital", "04. Hospita
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Greedy Times", "05. Greedy Times\05. Greedy Times.csproj", "{8C6E6AE7-AEF7-4356-9706-43D93AB9D35E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Sneaking", "06. Sneaking\06. Sneaking.csproj", "{35FDB0C4-9258-42CC-A0A9-FFF4536C32E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8C6E6AE7-AEF7-4356-9706-43D93AB9D35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C6E6AE7-AEF7-4356-9706-43D93AB9D35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C6E6AE7-AEF7-4356-9706-43D93AB9D35E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FDB0C4-9258-42CC-A0A9-FFF4536C32E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FDB0C4-9258-42CC-A0A9-FFF4536C32E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FDB0C4-9258-42CC-A0A9-FFF4536C32E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FDB0C4-9258-42CC-A0A9-FFF4536C32E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
