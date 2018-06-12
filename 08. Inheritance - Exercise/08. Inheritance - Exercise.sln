@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Mankind", "03. Mankind\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Online Radio Database", "04. Online Radio Database\04. Online Radio Database.csproj", "{34FF118C-B8B0-4787-96AE-0619319552C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Mordor's Cruel Plan", "05. Mordor's Cruel Plan\05. Mordor's Cruel Plan.csproj", "{A60C6C40-C72E-480A-9F48-CDB4DF42C59A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{34FF118C-B8B0-4787-96AE-0619319552C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34FF118C-B8B0-4787-96AE-0619319552C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34FF118C-B8B0-4787-96AE-0619319552C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60C6C40-C72E-480A-9F48-CDB4DF42C59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60C6C40-C72E-480A-9F48-CDB4DF42C59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60C6C40-C72E-480A-9F48-CDB4DF42C59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60C6C40-C72E-480A-9F48-CDB4DF42C59A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
