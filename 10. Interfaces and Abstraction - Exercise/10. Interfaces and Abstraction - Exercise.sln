@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiple Implementation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Ferrari", "03. Ferrari\03. Ferrari.csproj", "{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Telephony", "04. Telephony\04. Telephony.csproj", "{9FA4B8BA-0E72-4C73-B606-44E2B7E01C5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA4B8BA-0E72-4C73-B606-44E2B7E01C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA4B8BA-0E72-4C73-B606-44E2B7E01C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA4B8BA-0E72-4C73-B606-44E2B7E01C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA4B8BA-0E72-4C73-B606-44E2B7E01C5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
