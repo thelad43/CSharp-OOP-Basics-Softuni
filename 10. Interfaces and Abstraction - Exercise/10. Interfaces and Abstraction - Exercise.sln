@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Define an Interface IPe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiple Implementation", "02. Multiple Implementation\02. Multiple Implementation.csproj", "{67B66C7F-4031-4656-9A15-457B25156DE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Ferrari", "03. Ferrari\03. Ferrari.csproj", "{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{67B66C7F-4031-4656-9A15-457B25156DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67B66C7F-4031-4656-9A15-457B25156DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67B66C7F-4031-4656-9A15-457B25156DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEE92EC-DF4A-4D45-9DB7-4A7D3E05063F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
