@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Food Shortage", "07. Fo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Military Elite", "08. Military Elite\08. Military Elite.csproj", "{2A626107-4043-4472-BDA1-5CE7CACA93DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Collection Hierarchyrchy", "09. Collection Hierarchyrchy\09. Collection Hierarchyrchy.csproj", "{77E4186F-E087-47E8-803D-94D114A03DF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{2A626107-4043-4472-BDA1-5CE7CACA93DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A626107-4043-4472-BDA1-5CE7CACA93DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A626107-4043-4472-BDA1-5CE7CACA93DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E4186F-E087-47E8-803D-94D114A03DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E4186F-E087-47E8-803D-94D114A03DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E4186F-E087-47E8-803D-94D114A03DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E4186F-E087-47E8-803D-94D114A03DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
